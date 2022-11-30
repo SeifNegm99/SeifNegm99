@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SeifNegm99
-- 👀 I’m interested in software testing and software development overall
+- 👀 I’m interested in software development overall
 - 🌱 I’m currently trying to improve my skills in different programming languages
 - 💞️ I’m looking to collaborate on any project that can improve my skills
 - 📫 How to reach me on my email: seifnegm@icloud.com
